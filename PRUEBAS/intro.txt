@@ -1,1 +1,6 @@
-lo que busco es mejorar la parte de la programación del proyecto
+creacion de una biblioteca en Python que me permita entrenar cualquier red neuronal 
+de la forma que el usuraio deseé para hacer trabajos de visión artificial
+la idea es que tenga la capacidad de poder personalizar el tipo de red neuronal que quiera
+que pueda personalizar como quiere su estructura interna, permitirle ingresar datos de entrenamiento y de prueba
+y una vez entrenada la red este pueda hacer uso de ella a traves de Baap u otra herramienta/equipo
+

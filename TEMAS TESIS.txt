@@ -1,0 +1,9 @@
+TEMAS TESIS
+
+*BAAP
+
+¿Como mejorar el aprendizaje de los estudiantes en temas de inteligencia artificial con herramientas de bajo costo? (crear un software para el aprendizaje de inteligencia artificial)
+
+¿como incentivar la enseñanza de los estudiantes de bachillerato en tematicas basicas de programación y robotica? 
+
+¿como mejorar el aprendizaje de los estudiantes en temas de electronica basica con herramientas de bajo costo? (crear unas guias para enseñar sistemas embebidos, introduccion a ingenieria electronica etc. utilizando el brazo)
